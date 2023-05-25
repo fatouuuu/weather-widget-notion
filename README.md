@@ -42,7 +42,7 @@ To run the widget locally, you will need to have Node.js installed on your compu
 
     `npm run build`
 
-This will create a dist folder with the built widget files.
+    This will create a dist folder with the built widget files.
 
 5. Open the `index.html` file in a web browser to view the widget.
 
